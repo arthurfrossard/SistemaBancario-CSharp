@@ -1,0 +1,15 @@
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.csproj.AssemblyReference.cache
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.AssemblyInfoInputs.cache
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.AssemblyInfo.cs
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Assessment-ArthurFrossard/bin/Debug/net6.0/main
+/home/runner/Assessment-ArthurFrossard/bin/Debug/net6.0/main.deps.json
+/home/runner/Assessment-ArthurFrossard/bin/Debug/net6.0/main.runtimeconfig.json
+/home/runner/Assessment-ArthurFrossard/bin/Debug/net6.0/main.dll
+/home/runner/Assessment-ArthurFrossard/bin/Debug/net6.0/main.pdb
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.dll
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/refint/main.dll
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.pdb
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/main.genruntimeconfig.cache
+/home/runner/Assessment-ArthurFrossard/obj/Debug/net6.0/ref/main.dll
